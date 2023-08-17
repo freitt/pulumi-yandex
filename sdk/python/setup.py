@@ -62,6 +62,6 @@ setup(name='pulumiverse_yandex',
       install_requires=[
           'parver>=0.2.1',
           'pulumi>=3.0.0,<4.0.0',
-          'semver>=2.8.1'
+          'semver~=2.13'
       ],
       zip_safe=False)
