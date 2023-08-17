@@ -1,0 +1,5 @@
+{
+  "resource": true,
+  "name": "yandex",
+  "server": "github://api.github.com/freitt/pulumi-yandex"
+}
